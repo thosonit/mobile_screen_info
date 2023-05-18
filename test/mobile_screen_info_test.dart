@@ -9,7 +9,10 @@ class MockMobileScreenInfoPlatform
     implements MobileScreenInfoPlatform {
 
   @override
-  Future<String?> getPlatformVersion() => Future.value('42');
+  Future<Map<String, dynamic>?> getScreenInfo() {
+    // TODO: implement getScreenInfo
+    throw UnimplementedError();
+  }
 }
 
 void main() {

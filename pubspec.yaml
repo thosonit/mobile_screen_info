@@ -1,7 +1,7 @@
 name: mobile_screen_info
 description: A new Flutter project.
-version: 0.0.1
-homepage:
+version: 1.0.0
+homepage: https://github.com/thosonit
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
