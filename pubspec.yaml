@@ -1,11 +1,11 @@
 name: mobile_screen_info
-description: A pluggin to get screen infomation of mobile device.
-version: 1.0.0
+description: A plugin to get screen information of mobile devices.
+version: 1.0.2
 homepage: https://github.com/thosonit
 
 environment:
-  sdk: '>=3.0.0 <4.0.0'
-  flutter: ">=3.3.0"
+  sdk: '>=2.19.0 <3.0.0'
+  flutter: ">=3.0.0"
 
 dependencies:
   flutter:
